@@ -1,0 +1,1 @@
+{"name":"Local: digits sum","url":"e:\\Code Practise\\code forces\\digits sum.cpp","tests":[{"id":1699650784461,"input":"5\n1\n9\n10\n34\n880055535","output":"0\n1\n1\n3\n88005553"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\code forces\\digits sum.cpp","group":"local","local":true}

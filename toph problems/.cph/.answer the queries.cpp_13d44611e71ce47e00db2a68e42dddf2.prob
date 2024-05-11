@@ -1,0 +1,1 @@
+{"name":"Local: answer the queries","url":"e:\\CSE\\Code Practise\\Toph problems\\answer the queries.cpp","tests":[{"id":1670932218031,"input":"1\n5 3\n1001 3 5 5 99\n1 2\n2 3\n0 4","output":"Case 1:\n1\n2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CSE\\Code Practise\\Toph problems\\answer the queries.cpp","group":"local","local":true}

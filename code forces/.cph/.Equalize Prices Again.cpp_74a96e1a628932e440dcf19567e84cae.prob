@@ -1,0 +1,1 @@
+{"name":"Local: Equalize Prices Again","url":"e:\\Code Practise\\code forces\\Equalize Prices Again.cpp","tests":[{"id":1701591813930,"input":"3\n5\n1 2 3 4 5\n3\n1 2 2\n4\n1 1 1 1","output":"3\n2\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\code forces\\Equalize Prices Again.cpp","group":"local","local":true}

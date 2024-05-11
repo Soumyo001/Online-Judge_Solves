@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"e:\\Code Practise\\aust carnival contest\\a.cpp","tests":[{"id":1673615310309,"input":"3\n9\nassembler\n8\noperator\n26\nabcdefghijklmnopqrtsuvwxyz","output":"Yes\nNo\nYes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\aust carnival contest\\a.cpp","group":"local","local":true}

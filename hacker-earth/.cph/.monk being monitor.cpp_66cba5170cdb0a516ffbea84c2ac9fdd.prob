@@ -1,0 +1,1 @@
+{"name":"Local: monk being monitor","url":"e:\\Code Practise\\hacker-earth\\monk being monitor.cpp","tests":[{"id":1664132418056,"input":"1\n11\n3 1 5 3 5 5 6 6 1 1 5","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\hacker-earth\\monk being monitor.cpp","group":"local","local":true}

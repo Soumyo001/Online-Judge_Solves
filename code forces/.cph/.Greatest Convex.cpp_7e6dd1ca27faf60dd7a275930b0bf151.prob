@@ -1,0 +1,1 @@
+{"name":"Local: Greatest Convex","url":"e:\\Code Practise\\code forces\\Greatest Convex.cpp","tests":[{"id":1702969226649,"input":"4\n3\n6\n8\n10","output":"2\n5\n7\n9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\code forces\\Greatest Convex.cpp","group":"local","local":true}

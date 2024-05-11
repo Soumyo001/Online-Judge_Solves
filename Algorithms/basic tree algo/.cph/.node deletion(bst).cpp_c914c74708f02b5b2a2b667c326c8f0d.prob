@@ -1,0 +1,1 @@
+{"name":"Local: node deletion(bst)","url":"e:\\Code Practise\\Algorithms\\basic tree algo\\node deletion(bst).cpp","tests":[{"id":1676714298824,"input":"11\n50 75 25 60 22 15 44 83 30 80 33\n75","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\Algorithms\\basic tree algo\\node deletion(bst).cpp","group":"local","local":true}

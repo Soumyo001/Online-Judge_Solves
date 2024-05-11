@@ -1,0 +1,1 @@
+{"name":"Local: array queries","url":"e:\\CSE\\Code Practise\\lightoj\\array queries.cpp","tests":[{"id":1670788181876,"input":"2\n5 3\n78 1 22 12 3\n1 2\n3 5\n4 4\n1 1\n10\n1 1","output":"Case 1:\n1\n3\n12\nCase 2:\n10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CSE\\Code Practise\\lightoj\\array queries.cpp","group":"local","local":true}

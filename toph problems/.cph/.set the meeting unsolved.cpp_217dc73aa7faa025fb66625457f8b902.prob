@@ -1,0 +1,1 @@
+{"name":"Local: set the meeting unsolved","url":"e:\\Code Practise\\toph problems\\set the meeting unsolved.cpp","tests":[{"id":1666430992304,"input":"7 7\n1 2\n1 3\n2 4\n3 4\n4 6\n4 7\n3 5\n6 7 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\toph problems\\set the meeting unsolved.cpp","group":"local","local":true}

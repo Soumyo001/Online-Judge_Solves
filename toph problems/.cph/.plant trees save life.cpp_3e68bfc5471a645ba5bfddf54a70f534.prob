@@ -1,0 +1,1 @@
+{"name":"Local: plant trees save life","url":"e:\\Code Practise\\toph problems\\plant trees save life.cpp","tests":[{"id":1666606260517,"input":"10 5\n1 6 2 7 3 8 4 9 5 10\n1 2\n3 4\n5 6\n7 8\n9 10","output":"15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\toph problems\\plant trees save life.cpp","group":"local","local":true}

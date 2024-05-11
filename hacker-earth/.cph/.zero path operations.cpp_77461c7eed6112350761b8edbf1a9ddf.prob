@@ -1,0 +1,1 @@
+{"name":"Local: zero path operations","url":"e:\\Code Practise\\hacker-earth\\zero path operations.cpp","tests":[{"id":1664708503506,"input":"1\n3\n1 2 \n1 3\n1 2 3","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\hacker-earth\\zero path operations.cpp","group":"local","local":true}

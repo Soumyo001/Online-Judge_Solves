@@ -1,0 +1,1 @@
+{"name":"Local: lucky number","url":"e:\\Code Practise\\lightoj\\lucky number.cpp","tests":[{"id":1701537482818,"input":"2\n2\n100000","output":"Case 1: 3\nCase 2: 1429431"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\lightoj\\lucky number.cpp","group":"local","local":true}

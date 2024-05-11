@@ -1,0 +1,93 @@
+*{
+    box-sizing: border-box;
+}
+button{
+    height:24px;
+    width: fit-content;
+    border:1px solid black;
+    color:red;
+    background-color: yellow;
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 1.1em;
+}
+button:hover{
+    color:black;
+    background-color: white;
+}
+button:active{
+    color:red;
+    background-color: yellow;
+}
+.navStyle{
+    background-color: rgb(88, 7, 180);
+}
+.navStyle ul{
+    display: flex;
+    justify-content: space-between;
+    overflow: auto;
+}
+.navStyle li{
+    float: left;
+    list-style: none;
+    margin: 12px 8px;
+}
+.navStyle li a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 1.1em;
+}
+.navStyle li a:hover{
+    color:yellow;
+}
+.navStyle li a:active{
+    color:white;
+}
+.navStyle input{
+    width: 200px;
+    height: 20px;
+    border: 2px solid black;
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: large;
+    padding: 12px 0px;
+
+}
+.divClass{
+    float: right;
+    /* border: 2px solid black; */
+    padding: 10px 78px;
+}
+img{
+    height: 100px;
+    width:100px;
+    margin: auto;
+    display: block;
+    margin: auto;
+    /* border: 2px solid red; */
+}
+h3{
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 1.1em;
+    text-align: center;
+    /* border: 2px solid red; */
+}
+.container{
+    /* border: 2px solid red;  */
+    margin: auto;
+    /* width: 55%; it isnt necessary if u can adjust the elements in mid without changing the width of a block element*/
+
+}
+.container2{
+    border: 2px solid red;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.box{
+    background-color: aliceblue;
+    border: 2px solid grey;
+    margin: 10px 10px;
+    padding: 10px 10px;
+    display: inline-block;
+    width: 25%;
+}

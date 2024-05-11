@@ -1,0 +1,1 @@
+{"name":"Local: so long","url":"e:\\Code Practise\\toph problems\\so long.cpp","tests":[{"id":1699279558927,"input":"1\n4 3\n2 3\n3 2\n4 6\n2 5","output":"Case 1:\nJodu\nDraw\nModu\nDraw"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\toph problems\\so long.cpp","group":"local","local":true}

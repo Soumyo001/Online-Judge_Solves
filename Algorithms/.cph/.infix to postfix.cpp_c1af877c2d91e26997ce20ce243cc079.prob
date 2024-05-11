@@ -1,0 +1,1 @@
+{"name":"Local: infix to postfix","url":"e:\\Code Practise\\Algorithms\\infix to postfix.cpp","tests":[{"id":1665648916667,"input":"((2+12/3)*((13-62)*2^3))+6","output":"2123/+1362-23^**6+\n102 102"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\Algorithms\\infix to postfix.cpp","group":"local","local":true}

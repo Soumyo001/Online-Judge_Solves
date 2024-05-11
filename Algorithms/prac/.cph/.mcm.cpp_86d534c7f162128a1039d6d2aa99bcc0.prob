@@ -1,0 +1,1 @@
+{"name":"Local: mcm","url":"e:\\Code Practise\\Algorithms\\prac\\mcm.cpp","tests":[{"id":1691834070473,"input":"4\n2 3\n3 4\n4 1\n1 3","output":"24"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\Algorithms\\prac\\mcm.cpp","group":"local","local":true}

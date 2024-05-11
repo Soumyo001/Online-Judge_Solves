@@ -1,0 +1,44 @@
+package com.mycompany.synchronizedemo;
+class Printer{
+	synchronized void print(String message, String whichComputer) {
+		System.out.println("Printing request from "+whichComputer);
+		System.out.println(message);
+	}
+}
+
+class Computer implements Runnable{
+	String name;
+	Printer printer;
+	
+	Computer(Printer printer, String name){
+		this.printer = printer;
+		this.name = name;
+	}
+	
+	public void run() {
+		printer.print("hello there", name);
+	}
+}
+public class Main {
+	public static void main(String[] args) {
+		
+		Printer pr = new Printer();
+		
+		Thread t[] = new Thread[5];
+		for(int i=0;i<5;i++) {
+			Computer com = new Computer(pr, "Computer: "+i);
+			t[i] = new Thread(com);
+			t[i].start();
+			/*try {
+				t[i].join();
+				t[i].sleep(1000);
+			}catch(InterruptedException e) {
+				e.printStackTrace();
+			}*/
+		}
+		for(int i=0;i<5;i++) {
+			System.out.println(t[i].isAlive());
+		}
+	}
+
+}

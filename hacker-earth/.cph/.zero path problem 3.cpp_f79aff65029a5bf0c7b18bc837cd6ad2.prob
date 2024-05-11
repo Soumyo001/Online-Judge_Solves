@@ -1,0 +1,1 @@
+{"name":"Local: zero path problem 3","url":"e:\\Code Practise\\hacker-earth\\zero path problem 3.cpp","tests":[{"id":1664870278392,"input":"1\n3\n1 2 \n1 3\n1 2 3","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\hacker-earth\\zero path problem 3.cpp","group":"local","local":true}

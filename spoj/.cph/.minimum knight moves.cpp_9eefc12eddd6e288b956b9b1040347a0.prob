@@ -1,0 +1,1 @@
+{"name":"Local: minimum knight moves","url":"e:\\Code Practise\\spoj\\minimum knight moves.cpp","tests":[{"id":1664550930078,"input":"3\na1 h8\na1 c2\nh8 c3","output":"6\n1\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\spoj\\minimum knight moves.cpp","group":"local","local":true}

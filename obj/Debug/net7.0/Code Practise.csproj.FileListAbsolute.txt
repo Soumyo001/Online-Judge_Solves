@@ -1,0 +1,15 @@
+E:\Code Practise\bin\Debug\net7.0\Code Practise.exe
+E:\Code Practise\bin\Debug\net7.0\Code Practise.deps.json
+E:\Code Practise\bin\Debug\net7.0\Code Practise.runtimeconfig.json
+E:\Code Practise\bin\Debug\net7.0\Code Practise.dll
+E:\Code Practise\bin\Debug\net7.0\Code Practise.pdb
+E:\Code Practise\obj\Debug\net7.0\Code Practise.csproj.AssemblyReference.cache
+E:\Code Practise\obj\Debug\net7.0\Code Practise.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code Practise\obj\Debug\net7.0\Code Practise.AssemblyInfoInputs.cache
+E:\Code Practise\obj\Debug\net7.0\Code Practise.AssemblyInfo.cs
+E:\Code Practise\obj\Debug\net7.0\Code Practise.csproj.CoreCompileInputs.cache
+E:\Code Practise\obj\Debug\net7.0\Code Practise.dll
+E:\Code Practise\obj\Debug\net7.0\refint\Code Practise.dll
+E:\Code Practise\obj\Debug\net7.0\Code Practise.pdb
+E:\Code Practise\obj\Debug\net7.0\Code Practise.genruntimeconfig.cache
+E:\Code Practise\obj\Debug\net7.0\ref\Code Practise.dll

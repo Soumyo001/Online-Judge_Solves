@@ -1,0 +1,5 @@
+ShooterGame/Binaries/Win64/VALORANT-Win64-Shipping.pdb	2021-10-20T20:03:20.733Z
+Engine/Content/SlateDebug/Fonts/LastResort.tps	2021-09-21T20:57:25.687Z
+Engine/Content/SlateDebug/Fonts/LastResort.ttf	2021-09-21T20:57:25.749Z
+Engine/Content/SlateDebug/Fonts/LastResort.ttf	2021-09-21T20:57:25.749Z
+copied by MD sadma IsRak

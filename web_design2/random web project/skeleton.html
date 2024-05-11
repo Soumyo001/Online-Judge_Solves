@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Website</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1 style="font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">This is a random Website</h1>
+    <p>I love writing paragraphs !!!</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur assumenda hic voluptatum? Impedit autem vel at quod odio <strong>This is a strong line and the strong tag is an inline tag.</strong><span>AS WELL AS THE SPAN ALSO</span><em>Now tihs is emphasized !</em>saepe sapiente ea dolore perferendis commodi, <p>a new paragraph would create a new line</p>fuga minima ducimus sit illo modi ipsam eaque! Repellendus, tempora.</p>
+
+    <p>the paragraph, division and ul and ol are block elements</p>
+    <p>the strong, emphasized, span and anchor tags are inline elements</p>
+
+    <a href="https://www.facebook.com/profile.php?id=100008047544954" target="_blank">would you care to go to this link ?</a> 
+    <span>hahahahahahaha</span>
+
+    <div class="form_div">
+        <ol type="i">
+            <li>This is ordered first list</li>
+            <li>This is ordered Second List</li>
+            <li>this is ordered third list</li>
+        </ol>
+        <ul type="circle">
+            <li>This is unordered first List</li>
+            <li>This is unordered Second List</li>
+            <li>This is unordered third List</li>
+        </ul>
+    </div>
+
+    <div class="container" id="div1">
+        <table class="t1">
+            <thead class="t1_thead">
+                <tr>
+                    <th>Name</th>
+                    <th>Id</th>
+                    <th>Gender</th>
+                </tr>
+            </thead>
+            <tbody class="t1_tbody">
+                <tr>
+                    <td>Sadman Soumyo</td>
+                    <td>20200204083</td>
+                    <td>Male</td>
+                </tr>
+                <tr class="active_row">
+                    <td>Mr. X</td>
+                    <td>00000000000</td>
+                    <td>Unknown</td>
+                </tr>
+                <tr>
+                    <td>Mr. Y</td>
+                    <td>00001010</td>
+                    <td>Alien</td>
+                </tr>
+                <tr>
+                    <td>Mr. Z</td>
+                    <td>00001011</td>
+                    <td>Alien X</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <h3>Now tell us about yourself</h3>
+
+    <form action="new page.html" target="_blank">
+        <div class="form_div">
+            <label for="name">Name :</label>
+            <input type="text" id="name">
+        </div>
+        <div class="form_div">
+            <label for="email">E-mail :</label>
+            <input type="email" id="email">
+        </div>
+        <div class="form_div">
+            <label for="password">password :</label>
+            <input type="password" id="password">
+        </div>
+        <div class="form_div">
+            <label for="Bonus"> Bonus :</label>
+            <input type="number" id="Bonus">
+        </div>
+        <div class="form_div">
+            <label for="write_urself">Write About yourself :</label>
+            <div>
+                <textarea name="myText" id="write_urself" cols="80" rows="12"></textarea>
+            </div>
+        </div>
+        <div class="form_div">
+            <label for="select">Cars you've got :</label>
+            <select name="MyCar" id="select">
+                <option value="Ferrari" selected>Ferrari</option>
+                <option value="Maserrati">Maserrati</option>
+                <option value="Apollo">Intensa Imozione</option>
+                <option value="Bugatti">Bugatti</option>
+            </select>
+        </div>
+
+        <div class="form_div">
+            <label for="gender">Gender :</label>
+            Male <input type="radio"id="gender" name="gender_select">
+            Female <input type="radio" id="gender" name="gender_select">
+            Other <input type="radio" id="gender" name="gender_select">
+        </div>
+
+        <div class="form_div">
+            <label for="eligibility">Do you think your'e eligible ?</label>
+            <input type="checkbox" id="eligibility">
+        </div>
+        <div class="form_div">
+            <input type="submit" value="Submit" id="submit">
+            <input type="reset" value="Reset" id="reset">
+        </div>
+    </form>
+
+</body>
+</html>

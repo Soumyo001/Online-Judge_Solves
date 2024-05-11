@@ -1,0 +1,1 @@
+{"name":"Local: best place to arrange contest","url":"e:\\Code Practise\\toph problems\\best place to arrange contest.cpp","tests":[{"id":1666620179472,"input":"3 5\n0 0 1 0 0\n0 0 0 0 0\n1 0 2 0 1","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\toph problems\\best place to arrange contest.cpp","group":"local","local":true}

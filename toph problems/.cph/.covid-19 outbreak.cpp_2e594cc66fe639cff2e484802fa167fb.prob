@@ -1,0 +1,1 @@
+{"name":"Local: covid-19 outbreak","url":"e:\\Code Practise\\toph problems\\covid-19 outbreak.cpp","tests":[{"id":1666627727924,"input":"5 1\n1 4 3\n1 2 6\n2 5 10\n2 3 2\n7 4 6 5 2","output":"16"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\toph problems\\covid-19 outbreak.cpp","group":"local","local":true}

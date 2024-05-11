@@ -1,0 +1,1 @@
+{"name":"Local: fair playoff","url":"e:\\Code Practise\\code forces\\fair playoff.cpp","tests":[{"id":1699607191661,"input":"5\n3 7 9 5\n4 5 6 9\n5 3 8 1\n6 5 3 2\n30 14 89 23","output":"YES\nNO\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\code forces\\fair playoff.cpp","group":"local","local":true}

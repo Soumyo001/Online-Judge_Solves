@@ -1,0 +1,1 @@
+{"name":"Local: Game","url":"e:\\Code Practise\\code forces\\Game.cpp","tests":[{"id":1703492283635,"input":"2 2 1 2","output":"Second"},{"id":1703492289608,"input":"2 1 1 1","output":"First"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\code forces\\Game.cpp","group":"local","local":true}

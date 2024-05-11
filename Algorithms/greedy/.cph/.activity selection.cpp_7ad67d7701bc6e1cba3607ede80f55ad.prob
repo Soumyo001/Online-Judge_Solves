@@ -1,0 +1,1 @@
+{"name":"Local: activity selection","url":"e:\\Code Practise\\Algorithms\\greedy\\activity selection.cpp","tests":[{"id":1691865842020,"input":"3\n10 20\n12 15\n20 30","output":"12 15\n20 30\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\Algorithms\\greedy\\activity selection.cpp","group":"local","local":true}

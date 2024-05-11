@@ -1,0 +1,1 @@
+{"name":"Local: Chef and Reversing","url":"e:\\Code Practise\\codeshef\\Chef and Reversing.cpp","tests":[{"id":1665496893809,"input":"7 7\n1 2 \n3 2\n3 4\n7 4\n6 2\n5 6\n7 5","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\codeshef\\Chef and Reversing.cpp","group":"local","local":true}

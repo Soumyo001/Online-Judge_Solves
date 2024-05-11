@@ -1,0 +1,1 @@
+{"name":"Local: h","url":"e:\\Code Practise\\aust carnival contest\\h.cpp","tests":[{"id":1673618007900,"input":"5\n45\n80\n25\n95\n37","output":"81.818182\n400.000000\n33.333333\n1900.000000\n58.730159"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\aust carnival contest\\h.cpp","group":"local","local":true}

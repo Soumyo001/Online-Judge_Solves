@@ -1,0 +1,21 @@
+
+For Bangla Medium:
+===================
+SSC GPA: 5.000000
+===================
+ID: 1 ; Name: abc
+ID: 4 ; Name: pqr
+ID: 5 ; Name: ali
+SSC GPA: 4.550000
+===================
+ID: 2 ; Name: def
+
+For English Medium:
+===================
+O level GPA: 4.000000
+===================
+ID: 3 ; Name: xyz
+ID: 6 ; Name: hasan
+O level GPA: 3.50
+===================
+ID: 7 ; Name: kamal

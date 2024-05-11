@@ -1,0 +1,1 @@
+{"name":"Local: cyclic shift","url":"e:\\Code Practise\\hacker-earth\\cyclic shift.cpp","tests":[{"id":1664123941541,"input":"2\n5 2\n10101\n6 2\n010101","output":"9\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\hacker-earth\\cyclic shift.cpp","group":"local","local":true}

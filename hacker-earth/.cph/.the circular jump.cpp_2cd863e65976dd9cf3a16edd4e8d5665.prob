@@ -1,0 +1,1 @@
+{"name":"Local: the circular jump","url":"e:\\Code Practise\\hacker-earth\\the circular jump.cpp","tests":[{"id":1670078921089,"input":"1\n5 1 5\n2 1 2 3 4","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\hacker-earth\\the circular jump.cpp","group":"local","local":true}

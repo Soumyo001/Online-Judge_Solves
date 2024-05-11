@@ -1,0 +1,1 @@
+{"name":"Local: Party","url":"e:\\Code Practise\\code forces\\Party.cpp","tests":[{"id":1702897842411,"input":"5\n-1\n1\n2\n1\n-1","output":"3"},{"id":1702902763435,"input":"12\n-1\n1\n2\n3\n-1\n5\n6\n7\n-1\n9\n10\n11","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\code forces\\Party.cpp","group":"local","local":true}

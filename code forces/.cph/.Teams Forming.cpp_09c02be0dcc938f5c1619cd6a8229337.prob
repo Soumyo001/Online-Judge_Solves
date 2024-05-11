@@ -1,0 +1,1 @@
+{"name":"Local: Teams Forming","url":"e:\\Code Practise\\code forces\\Teams Forming.cpp","tests":[{"id":1703011232265,"input":"6\n5 10 2 3 14 5","output":"5"},{"id":1703011242257,"input":"2\n1 100","output":"99"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\code forces\\Teams Forming.cpp","group":"local","local":true}

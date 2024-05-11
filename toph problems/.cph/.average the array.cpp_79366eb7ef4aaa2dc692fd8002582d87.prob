@@ -1,0 +1,1 @@
+{"name":"Local: average the array","url":"e:\\Code Practise\\toph problems\\average the array.cpp","tests":[{"id":1667982629149,"input":"5\n1 2 3 4 5\n5\n1\n2\n3\n4\n5","output":"0\n2\n4\n5\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\toph problems\\average the array.cpp","group":"local","local":true}

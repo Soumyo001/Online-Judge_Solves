@@ -1,0 +1,1 @@
+{"name":"Local: lcs","url":"e:\\Code Practise\\Algorithms\\prac\\lcs.cpp","tests":[{"id":1691859950133,"input":"abcde\nafgch","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\Algorithms\\prac\\lcs.cpp","group":"local","local":true}

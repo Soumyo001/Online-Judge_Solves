@@ -1,0 +1,1 @@
+{"name":"Local: how many ways","url":"e:\\Code Practise\\toph problems\\how many ways.cpp","tests":[{"id":1668522165687,"input":"1\n4 3\n1 4\n1 2\n2 3\n2 4","output":"Case 1: 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\toph problems\\how many ways.cpp","group":"local","local":true}

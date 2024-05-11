@@ -1,0 +1,1 @@
+{"name":"Local: lcs(iterative)","url":"e:\\Code Practise\\Algorithms\\prac\\lcs(iterative).cpp","tests":[{"id":1691860754050,"input":"abcde\nafgch","output":"2\nac"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\Algorithms\\prac\\lcs(iterative).cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Divisibility Problem","url":"e:\\Code Practise\\code forces\\Divisibility Problem.cpp","tests":[{"id":1699349025017,"input":"5\n10 4\n13 9\n100 13\n123 456\n92 46","output":"2\n5\n4\n333\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\code forces\\Divisibility Problem.cpp","group":"local","local":true}

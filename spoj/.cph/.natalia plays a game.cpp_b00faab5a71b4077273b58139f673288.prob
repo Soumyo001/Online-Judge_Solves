@@ -1,0 +1,1 @@
+{"name":"Local: natalia plays a game","url":"e:\\Code Practise\\spoj\\natalia plays a game.cpp","tests":[{"id":1669915374393,"input":"2\n3 3\n$OO\n***\nOO#\n3 3\n$*#\nO*O\nOOO","output":"-1\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\spoj\\natalia plays a game.cpp","group":"local","local":true}

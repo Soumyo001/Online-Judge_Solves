@@ -1,0 +1,1 @@
+{"name":"Local: binary search","url":"e:\\Code Practise\\Algorithms\\binary search.cpp","tests":[{"id":1666782754504,"input":"13\n4 5 6 7 8 9 10 34 56 89 100 343 455\n5\n343\n101\n34\n6\n1","output":"343\n-1\n34\n6\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\Algorithms\\binary search.cpp","group":"local","local":true}

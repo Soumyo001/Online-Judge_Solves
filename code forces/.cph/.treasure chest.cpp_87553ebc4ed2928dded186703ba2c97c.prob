@@ -1,0 +1,1 @@
+{"name":"Local: treasure chest","url":"e:\\Code Practise\\code forces\\treasure chest.cpp","tests":[{"id":1699986033452,"input":"4\n5 7 2\n10 5 0\n5 8 2\n63 79 72","output":"7\n10\n9\n79"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\code forces\\treasure chest.cpp","group":"local","local":true}

@@ -1,0 +1,6 @@
+com\mycompany\labfinal\Main.class
+com\mycompany\labfinal\Signal.class
+com\mycompany\labfinal\ControlCenter.class
+com\mycompany\labfinal\Transceiver.class
+myExceptions\invalidInformationException.class
+com\mycompany\labfinal\Translator.class

@@ -1,0 +1,1 @@
+{"name":"Local: one and two","url":"e:\\Code Practise\\code forces\\round#851(div. 2)\\one and two.cpp","tests":[{"id":1675954528726,"input":"3\n6\n2 2 1 2 1 2\n3\n1 2 1\n4\n1 1 1 1","output":"2\n-1\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\code forces\\round#851(div. 2)\\one and two.cpp","group":"local","local":true}

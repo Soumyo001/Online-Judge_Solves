@@ -1,0 +1,1 @@
+{"name":"Local: Equidistant Letters","url":"e:\\Code Practise\\code forces\\Equidistant Letters.cpp","tests":[{"id":1702888418458,"input":"3\noelhl\nabcdcba\nac","output":"oellh\naaccdbb\nac"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\code forces\\Equidistant Letters.cpp","group":"local","local":true}

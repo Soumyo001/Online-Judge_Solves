@@ -1,0 +1,1 @@
+{"name":"Local: wakanda forever","url":"e:\\CSE\\Code Practise\\Toph problems\\wakanda forever.cpp","tests":[{"id":1671297522142,"input":"5 6 100\n100 100 5 0 10\n1 2 3\n1 4 1\n1 3 3\n3 4 1\n2 4 5\n4 5 1","output":"106"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CSE\\Code Practise\\Toph problems\\wakanda forever.cpp","group":"local","local":true}

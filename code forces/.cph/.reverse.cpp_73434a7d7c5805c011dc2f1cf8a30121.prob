@@ -1,0 +1,1 @@
+{"name":"Local: reverse","url":"e:\\Code Practise\\code forces\\reverse.cpp","tests":[{"id":1701608733635,"input":"5\n1\n1\n3\n2 1 3\n4\n1 4 2 3\n4\n1 4 3 2\n5\n1 2 3 4 5","output":"1\n1 2 3\n1 2 4 3\n1 2 3 4\n1 2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\code forces\\reverse.cpp","group":"local","local":true}

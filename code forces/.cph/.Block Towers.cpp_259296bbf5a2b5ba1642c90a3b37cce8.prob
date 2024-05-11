@@ -1,0 +1,1 @@
+{"name":"Local: Block Towers","url":"e:\\Code Practise\\code forces\\Block Towers.cpp","tests":[{"id":1703488552625,"input":"4\n3\n1 2 3\n3\n1 2 2\n2\n1 1000000000\n10\n3 8 6 7 4 1 2 4 10 1","output":"3\n2\n500000001\n9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\code forces\\Block Towers.cpp","group":"local","local":true}

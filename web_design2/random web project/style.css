@@ -1,0 +1,89 @@
+*{
+    box-sizing:content-box;
+    padding: 0;
+}
+h3{
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 1.4em;
+    margin: 10px;
+    margin-left: 25px;
+    text-decoration:underline;
+}
+body{
+    background-color: whitesmoke;
+}
+a{
+    text-decoration: none;
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 1.1em;
+    font-weight: bold;
+    color:green;
+}
+a:hover{
+    color:red;
+}
+a:active{
+    color: green;
+}
+.t1{
+    /* border: 2px solid black; */
+    margin: 40px auto;
+    padding: 40px 40px;
+    width: 600px;
+    /* border-start-start-radius: 10px;
+    border-end-end-radius: 10px; */
+    border-radius: 10px;
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 1.4em;
+    overflow: hidden;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    cursor:pointer;
+    /* background-color: lightslategrey; */
+}
+.t1 thead tr{
+    background-color: aqua;
+    text-align: center;
+}
+.t1 tbody tr{
+    text-align: center;
+    /* border-bottom: 1px solid black; it doesnt work for a full row*/
+}
+.t1  tr.active_row{
+    font-weight: bold;
+    color:red;
+}
+.t1 th, .t1 td{
+    padding: 20px 20px;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    /*it works for table data (th,td)*/
+}
+.t1 tbody tr:nth-of-type(even){
+    background-color: #e0d4d4e8;
+}
+.t1 tbody tr:last-of-type{
+    border-bottom: 1px solid aqua;
+}
+form,input{
+    margin-top: 5px;
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: large;
+    padding: 0px 10px;
+}
+#name{
+    margin-left: 36px;
+}
+#email{
+    margin-left: 18px;
+}
+#write_urself{
+    margin-top: 18px;
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 0.98em;
+}
+#Bonus{
+    margin-left: 26.4px;
+}
+.form_div{
+    margin: 15px;
+}

@@ -1,0 +1,1 @@
+{"name":"Local: Li Hua and Maze","url":"e:\\Code Practise\\code forces\\Li Hua and Maze.cpp","tests":[{"id":1699428035001,"input":"3\n4 4\n2 2 3 3\n6 7\n1 1 2 3\n9 9\n5 1 3 6","output":"4\n2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code Practise\\code forces\\Li Hua and Maze.cpp","group":"local","local":true}

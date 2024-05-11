@@ -1,0 +1,77 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "com.mycompany.shape3d.Shape3D.Main",
+            "projectName": "Shape3D"
+        },
+        {
+            "type": "java",
+            "name": "Launch BoxDemo",
+            "request": "launch",
+            "mainClass": "com.mycompany.assignment_a_sec.BoxDemo",
+            "projectName": "assignment_A_sec"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "com.mycompany.assignment_a_sec.main",
+            "projectName": "assignment_A_sec"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExampleProgram",
+            "request": "launch",
+            "mainClass": "ExampleProgram",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Launch MobileDemo",
+            "request": "launch",
+            "mainClass": "MobileDemo",
+            "projectName": "mavenproject1"
+        },
+        {
+            "type": "java",
+            "name": "Launch pellNumber",
+            "request": "launch",
+            "mainClass": "pellNumber",
+            "projectName": "java programs_374e50f9"
+        },
+        {
+            "type": "java",
+            "name": "Launch pell",
+            "request": "launch",
+            "mainClass": "pell",
+            "projectName": "java programs_374e50f9"
+        },
+        {
+            "type": "java",
+            "name": "Launch dlt",
+            "request": "launch",
+            "mainClass": "dlt",
+            "projectName": "java programs_374e50f9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sum",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "java programs_374e50f9"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
