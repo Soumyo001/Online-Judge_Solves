@@ -8,7 +8,7 @@ struct Edge{
 vector<Edge> edges;
 int dist[N],parent[N];
 void inputGraph(){
-    edges.resize(m+1);
+    edges.resize(m);
     for(int i=0;i<m;i++) {
         cin>>edges[i].src>>edges[i].dest>>edges[i].wt;
         parent[edges[i].dest] = edges[i].src;
